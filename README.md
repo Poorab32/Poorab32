@@ -34,9 +34,8 @@ I am a Computer Science Engineering student at SRMIST with a strong foundation i
 
 ### 📊 GitHub Analytics
 
-<!-- Be sure to replace 'YOUR_GITHUB_USERNAME' with your actual username below so the stats load correctly -->
-![Poorab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
+![Poorab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poorab32&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorab32&layout=compact&theme=radium)
 
 ---
 
