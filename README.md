@@ -1,33 +1,42 @@
 # 👨‍💻 Hi, I'm Poorab Verma
 
-### 🚀 Software Engineer | AI/ML & Computer Vision | Blockchain Developer
+### 🚀 Software Engineer | AI/ML | Full-Stack & Web3 Developer
 
-I am a Computer Science Engineer specializing in scalable software development, artificial intelligence, and decentralized architectures. I am passionate about bridging the gap between complex data models and production-ready applications.
+I am a Computer Science Engineering student at SRMIST with a strong foundation in core software development and a drive to solve complex, real-world problems. My technical expertise spans backend fundamentals, deep learning, and decentralized architectures. I thrive in high-velocity environments, rapidly learning and integrating emerging technologies to build robust, impactful solutions.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-*   **Core Languages:** Python, Java, C++, SQL
+*   **Core Languages:** Python, Java, C++, TypeScript, SQL, Solidity
 *   **AI & Data Science:** PyTorch, Computer Vision, Natural Language Processing (NLP)
-*   **Technologies & Frameworks:** Streamlit, Blockchain, Smart Contracts
+*   **Web & Backend:** Next.js, FastAPI, PostgreSQL (Neon), TailwindCSS
+*   **Blockchain:** Smart Contracts, MetaMask, Sepolia Testnet, Drizzle ORM
 *   **Tools:** Git, GitHub, VS Code
 
 ---
 
 ### 💡 Featured Engineering Projects
 
+#### 🌍 VerdaChain | Blockchain & AI-Powered Carbon Credit Fraud Detection
+*   **Stack:** Solidity, Next.js, FastAPI, PostgreSQL (Neon), TailwindCSS, TypeScript, Drizzle ORM, MetaMask
+*   **Overview:** Engineered a full-stack system using Next.js and a FastAPI backend proxy, integrating a serverless Neon PostgreSQL database. Deployed decentralized infrastructure using Solidity on the Sepolia Testnet to enable secure on-chain logging of verification events and prevent fraud.
+
 #### 📈 IPO Market Listing Gain Predictor
 *   **Stack:** Python, PyTorch, Streamlit
-*   **Overview:** Engineered a predictive forecasting tool utilizing deep learning to analyze and predict IPO market gains, deployed via an interactive Streamlit web application.
+*   **Overview:** Developed a predictive forecasting tool utilizing deep learning to analyze and predict Initial Public Offering (IPO) market gains, deployed via an interactive Streamlit web application.
 
 #### 🌿 CropWhisper
 *   **Stack:** Computer Vision, Mobile Integration
-*   **Overview:** Spearheading a research-driven application for real-time crop disease diagnosis utilizing mobile camera optics to bridge agricultural challenges with AI diagnostic tools.
+*   **Overview:** Spearheading a research-driven application focused on real-time crop disease diagnosis utilizing mobile camera optics, bridging the gap between agricultural challenges and accessible AI diagnostic tools.
 
-#### 🗳️ Decentralized Voting System
-*   **Stack:** Blockchain, Smart Contracts
-*   **Overview:** Developed a secure, tamper-proof voting architecture leveraging blockchain technology to ensure transparent and verifiable consensus mechanisms.
+---
+
+### 📊 GitHub Analytics
+
+<!-- Be sure to replace 'YOUR_GITHUB_USERNAME' with your actual username below so the stats load correctly -->
+![Poorab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium)
 
 ---
 
